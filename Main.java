@@ -9,6 +9,7 @@ public class Main {
         String input = scanner.nextLine();
 
         int charCount = input.length();
+        System.out.println("Edited by Asma 👩‍💻");
         System.out.println("Number of characters (including spaces): " + charCount);
 
         scanner.close();
