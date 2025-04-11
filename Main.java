@@ -13,6 +13,8 @@ public class Main {
         System.out.println("Edited by Asma 👩‍💻");
         System.out.println("Number of characters (including spaces): " + charCount);
 
+        System.out.println("Thank you for using the tool! 👋");
+
         scanner.close();
     }
 }
