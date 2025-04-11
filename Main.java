@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("=== Conflict from Asma 👩‍💻 ===");
+
         System.out.print("Enter some text: ");
         String input = scanner.nextLine();
 
