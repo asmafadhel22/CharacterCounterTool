@@ -5,6 +5,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
 
 
+        System.out.println("=== Conflict from Asma 🧠 ===");
         System.out.print("Enter some text: ");
         String input = scanner.nextLine();
 
