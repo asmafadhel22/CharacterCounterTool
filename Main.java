@@ -4,8 +4,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("=== Welcome to Asma’s Version! ===");
-
+        System.out.println("=== Version by Asma 💫 ===");
         System.out.print("Enter some text: ");
         String input = scanner.nextLine();
 
